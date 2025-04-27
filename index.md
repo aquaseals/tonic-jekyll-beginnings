@@ -1,8 +1,8 @@
 ---
-title: garden
+title: emerging tek
 layout: default
 ---
 
-# garden
+# emerging tek
 
-*garden* is a garden theme
+*emerging tek* is a Jekyll theme made for emerging tek websites
