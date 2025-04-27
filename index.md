@@ -1,5 +1,6 @@
 ---
 title: garden
+layout: default
 ---
 
 # garden

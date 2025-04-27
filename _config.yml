@@ -1,5 +1,6 @@
 title: garden
 description: "a jekyll theme that looks like a cute garden"
 encoding: utf-8
+enable-dark-mode: true
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
