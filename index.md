@@ -1,8 +1,8 @@
 ---
-title: emerging-tek
+title: meadow
 layout: default
 ---
 
-# emerging-tek
+# meadow
 
-*emerging-tek* is a Jekyll theme made for emerging tek websites
+*meadow* is a Jekyll theme that looks like a meadow
